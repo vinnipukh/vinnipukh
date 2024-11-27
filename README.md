@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a freshman ai&d engineering at ozyegin university!
+I'm a freshman ai&d engineering student at ozyegin university!
   
 <!--
 **vinnipukh/vinnipukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
