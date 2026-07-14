@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# 🌌 I'm Arhan 
+## 🌌 I'm Arhan 
 
 <p align="left">
   <a href="https://vinnipukh.github.io"><img src="https://img.shields.io/badge/Portfolio-vinnipukh.github.io-0D1117?style=flat-square&logo=jekyll&logoColor=FF7B72&labelColor=1F242C&border=1" /></a>
