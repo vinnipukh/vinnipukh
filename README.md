@@ -10,7 +10,7 @@
 
 An **Artificial Intelligence & Data Engineering** undergraduate student at Özyeğin University specializing in Aspect-Based Sentiment Analysis (ABSA), robust ETL automation pipelines, and agentic workflows.
 
-vinnipukh.github.io
+[my website](https://vinnipukh.github.io/)
 
 ### 🛠️ Technology Stack & Armament
 
