@@ -10,37 +10,6 @@
 
 An **Artificial Intelligence & Data Engineering** undergraduate student at Özyeğin University specializing in Aspect-Based Sentiment Analysis (ABSA), robust ETL automation pipelines, and agentic workflows.
 
----
-
-### ⚡ Technical Blueprint
-
-```mermaid
-flowchart LR
-    %% Definitions
-    subgraph Data Extraction & Storage
-        A[Retailer Websites / Scrapers] -->|Daily GitHub Actions| B[(Raw Dataset Logs)]
-    end
-    subgraph Processing & Imputation
-        B -->|Python CLI Pipeline| C{Anomaly Filter}
-        C -->|SVD / MICE Imputation| D[(TUIK-Weighted Indexes)]
-    end
-    subgraph Model Integration
-        D -->|Feature Engineering| E[TachyonTRSA1 ABSA Dataset]
-        E -->|PyTorch / GPyTorch| F[Deep Kernel Learning Model]
-    end
-
-    %% Styles for Minimalist Dark Aesthetic
-    style A fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#8b949e
-    style B fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#58a6ff
-    style C fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#d2a8ff
-    style D fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#3fb950
-    style E fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#ff7b72
-    style F fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#f2cc60
-    
-    classDef default font-family:'Courier New',monospace;
-```
-
----
 
 ### 🛠️ Technology Stack & Armament
 
